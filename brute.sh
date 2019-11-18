@@ -1,5 +1,5 @@
 #!/bin/bash
-#author         : ./Lolz
+#author         : ./zNatazaraafzha
 #thanks to      : JavaGhost - Bashid.org
 #recode tinggal recode aja okeh?, tapi cantumin source Y tolol h3h3
 #Yamaap kalau scriptnya acak"an:(
